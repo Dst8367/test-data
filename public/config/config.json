@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x6a39493e6f4D277Db6A465171B4bFd0be9da4D54",
-  "SCAN_LINK": "https://testnet.bscscan.com/token/0x6a39493e6f4D277Db6A465171B4bFd0be9da4D54",
+  "CONTRACT_ADDRESS": "0xbA7aAd918DAABE2016D0073C2E99DD889227d8F1",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0xbA7aAd918DAABE2016D0073C2E99DD889227d8F1",
   "NETWORK": {
-    "NAME": "BNB TEST NET",
+    "NAME": "BSC testnet",
     "SYMBOL": "BNB",
     "ID": 97
   },
-  "NFT_NAME": "TheMOKSNFT",
-  "SYMBOL": "TMOKSNFT",
-  "MAX_SUPPLY": 1002,
+  "NFT_NAME": "MOKAS",
+  "SYMBOL": "MOKAS",
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
   "SHOW_BACKGROUND": true
 }
